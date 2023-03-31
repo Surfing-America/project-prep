@@ -28,10 +28,10 @@ Code Fellows 301 Project Week Prep Documents
 
 * *Which Professional Competencies Do We Want to Develop -*
 
-  * Nicholas Brown:
-  * Dasha Lewis:
-  * Alex Carr:
-  * Ryan Eastman:
+  * Nicholas Brown: technical/craft
+  * Dasha Lewis: technical/teamwork
+  * Alex Carr: technical/technical
+  * Ryan Eastman: teamwork/technical
 
 * *Approach Plan for the Day-to-Day -*
 
@@ -107,7 +107,7 @@ Code Fellows 301 Project Week Prep Documents
 
 * *Will you be using a PR review workflow? If so, consider:*
   * *How many people must review a PR?*
-  
+
     * Who merges PRs?
     * How often will you merge?
     * How will you communicate that it’s time to merge?
